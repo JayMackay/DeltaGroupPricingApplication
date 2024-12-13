@@ -1,0 +1,6 @@
+@DeltaGroupPricingApplication_HostAddress = http://localhost:5258
+
+GET {{DeltaGroupPricingApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
